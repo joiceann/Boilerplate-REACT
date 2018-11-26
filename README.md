@@ -21,9 +21,9 @@ Boilerplate básico.
 <a name="inst"></a>
 ## Instalación
 1. Clona el repositorio
-  *git clone https://github.com/joiceann/Boilerplate-REACT.git
+  1.1 git clone https://github.com/joiceann/Boilerplate-REACT.git
 2. Instala los packages
-  *npm install
+  2.1 npm install
  
 
 <a name="usage"></a>
