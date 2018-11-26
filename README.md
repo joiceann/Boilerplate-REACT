@@ -20,9 +20,9 @@ Boilerplate básico.
 
 <a name="inst"></a>
 ## Instalación
-*Clona el repositorio
+1. Clona el repositorio
   *git clone https://github.com/joiceann/Boilerplate-REACT.git
-*Instala los packages
+2. Instala los packages
   *npm install
  
 
